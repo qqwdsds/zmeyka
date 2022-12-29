@@ -1,0 +1,7 @@
+C:\Users\Максим\Documents\codes\C#\zmeyka\zmeyka\zmeyka\bin\Debug\zmeyka.exe.config
+C:\Users\Максим\Documents\codes\C#\zmeyka\zmeyka\zmeyka\bin\Debug\zmeyka.exe
+C:\Users\Максим\Documents\codes\C#\zmeyka\zmeyka\zmeyka\bin\Debug\zmeyka.pdb
+C:\Users\Максим\Documents\codes\C#\zmeyka\zmeyka\zmeyka\obj\Debug\zmeyka.csproj.AssemblyReference.cache
+C:\Users\Максим\Documents\codes\C#\zmeyka\zmeyka\zmeyka\obj\Debug\zmeyka.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Documents\codes\C#\zmeyka\zmeyka\zmeyka\obj\Debug\zmeyka.exe
+C:\Users\Максим\Documents\codes\C#\zmeyka\zmeyka\zmeyka\obj\Debug\zmeyka.pdb
